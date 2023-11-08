@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Mukhlash Asryono Rosi
 
-NIM : 
+NIM : 607062300116
 
 ## Instruksi
 

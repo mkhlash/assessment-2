@@ -1,6 +1,12 @@
-public class Soal04 {
+import java.util.Scanner;
 
-	public static void main(final String[] args) {
-		// Kerjakan soalnya di sini
-	}
+public class Soal04 {
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+
+        String posisiKerja = s.nextLine();
+        int jamKerja = s.nextInt();
+        
+        
+    }
 }
